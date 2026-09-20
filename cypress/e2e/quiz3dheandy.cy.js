@@ -47,3 +47,5 @@ describe ('Verifikasi User Gagal Login', () => {
     cy.url().should('include', 'login')
   })
 })
+
+// BELUM SELESAI KAK, UPLOAD TUGAS DULU TAKUT TELAT, MAU DI LANJUT TENGAH MALAM KARENA ADA URUSAN MENDADAK
