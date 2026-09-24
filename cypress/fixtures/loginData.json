@@ -1,0 +1,7 @@
+{
+    "validUsername": "Admin",
+    "validPassword": "admin123",
+    "invalidUsername": "Agus@998",
+    "invalidPassword": "Agus@998",
+    "urlLogin": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+}
